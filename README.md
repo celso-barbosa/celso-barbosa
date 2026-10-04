@@ -37,11 +37,6 @@
   </a>
 </p>
 
----
-
-## `> whoami`
-
-```text
 Celso Gabriel Barbosa
 
 Estudante de Engenharia da Computação.
