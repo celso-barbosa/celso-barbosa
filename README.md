@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/celso-gabriel-20b8032aa/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn" /></a>
-  <a href="mailto:cg205192@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=celso-barbosa&label=Visitas&color=00BFFF&style=for-the-badge" alt="Visitas ao perfil" />
+  <a href="https://www.linkedin.com/in/celso-gabriel-20b8032aa/"><img src="https://img.shields.io/badge/LinkedIn-Celso%20Gabriel-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:cg205192@gmail.com"><img src="https://img.shields.io/badge/Email-cg205192%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=D14836" alt="Email" /></a>
 </p>
 
 ---
@@ -97,6 +96,10 @@ class Celso:
 
 <p align="center">
   <i>Construindo projetos. Resolvendo problemas. Evoluindo constantemente.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=celso-barbosa&label=Visitas%20ao%20perfil&color=00BFFF&style=flat-square" alt="Visitas ao perfil" />
 </p>
 
 <p align="center">
