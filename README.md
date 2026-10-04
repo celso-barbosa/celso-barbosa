@@ -76,10 +76,6 @@ class Celso:
   <img src="https://streak-stats.demolab.com/?user=celso-barbosa&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=celso-barbosa&bg_color=0D1117&color=C9D1D9&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true" width="100%" alt="Gráfico de atividade" />
-</p>
-
 ---
 
 ## 🐍 Contribuições
