@@ -38,7 +38,7 @@ class Celso:
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,opencv,git,github,linux,vscode&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,opencv,spring,react,js,git,github,linux,vscode&theme=dark" alt="Tecnologias" />
 </p>
 
 ---
@@ -47,21 +47,36 @@ class Celso:
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/celso-barbosa/WorldSkillsVision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=celso-barbosa&repo=WorldSkillsVision&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=00BFFF" alt="WorldSkillsVision" />
-      </a>
-      <p>🤖 Robótica e visão computacional, desenvolvido na preparação para a competição <b>WorldSkills</b>.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/celso-barbosa/WorldSkillsVision">🤖 WorldSkillsVision</a></h3>
+      <p>Visão computacional para o <b>Módulo C</b> da WorldSkills (Robótica Móvel Autônoma): treina e identifica objetos em tempo real pela câmera, com rotulagem automática e fine-tuning de YOLOv8.</p>
+      <p><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00BFFF" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00BFFF" alt="OpenCV" /> <img src="https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square&logo=pytorch&logoColor=00BFFF" alt="YOLOv8" /> <img src="https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=00BFFF" alt="ONNX" /></p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🚧 Mais projetos em breve</h3>
-      <p>Este espaço é atualizado conforme novos projetos forem publicados.</p>
-      <a href="https://github.com/celso-barbosa?tab=repositories">
-        <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Ver repositórios" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/celso-barbosa/Vendas_POO">🛒 SmartList</a></h3>
+      <p>Gerenciador de lista de compras via linha de comando, aplicando POO, MVC e os padrões <b>Singleton</b>, <b>Strategy</b> e <b>Command</b>, com persistência em texto, binário e JSON.</p>
+      <p><img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00BFFF" alt="Java" /> <img src="https://img.shields.io/badge/Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=00BFFF" alt="Maven" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/celso-barbosa/Sorteador">🎲 Sorteador</a></h3>
+      <p>Aplicação web para sorteio de números, com quantidade, intervalo, ordenação e opção de permitir ou não repetições.</p>
+      <p><img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00BFFF" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=00BFFF" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Thymeleaf-0D1117?style=flat-square&logo=thymeleaf&logoColor=00BFFF" alt="Thymeleaf" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/celso-barbosa/Buscador-de-Cep">📍 Buscador de CEP</a></h3>
+      <p>Busca de endereço pelo CEP consumindo a API do <b>ViaCEP</b>.</p>
+      <p><img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00BFFF" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00BFFF" alt="JavaScript" /> <img src="https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=00BFFF" alt="Axios" /></p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/celso-barbosa?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Ver repositórios" />
+  </a>
+</p>
 
 ---
 
